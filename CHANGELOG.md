@@ -1,3 +1,19 @@
+# v0.2.1 (Sat May 15 2021)
+
+#### 🐛 Bug Fix
+
+- update deps and minor change [#3](https://github.com/basantech89/learnstorybook-design-system/pull/3) ([@basantech89](https://github.com/basantech89))
+
+#### 🔩 Dependency Updates
+
+- update deps [#2](https://github.com/basantech89/learnstorybook-design-system/pull/2) ([@basantech89](https://github.com/basantech89))
+
+#### Authors: 1
+
+- Basant Soni ([@basantech89](https://github.com/basantech89))
+
+---
+
 # v0.2.0 (Sat May 15 2021)
 
 #### 🚀 Enhancement
