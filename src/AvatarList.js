@@ -113,3 +113,4 @@ AvatarList.defaultProps = {
     userCount: null,
     size: "medium",
 };
+
